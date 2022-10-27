@@ -2,7 +2,7 @@
 //  UpcomingViewController.swift
 //  Netflix_Clone
 //
-//  Created by Chengzhan Gao on 10/24/21.
+//  Created by Chengzhan Gao on 09/24/21.
 //
 
 import UIKit
