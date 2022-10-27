@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Netflix_Clone
 //
-//  Created by Chengzhan Gao on 10/24/22.
+//  Created by Chengzhan Gao on 10/24/21.
 //
 
 import UIKit
