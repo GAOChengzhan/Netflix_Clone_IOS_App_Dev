@@ -13,16 +13,10 @@
 
 ## Functions
 
-### Watch Videos
-<img src="https://user-images.githubusercontent.com/39005000/198379388-4d3c37aa-dbae-49d2-9d54-9b42a8fee03c.png" width="350"/>
+|Watch Videos|Search Function|
+|-------------------|-----------------|
+|<img src="https://user-images.githubusercontent.com/39005000/198379388-4d3c37aa-dbae-49d2-9d54-9b42a8fee03c.png" width="350"/>|<img src="https://user-images.githubusercontent.com/39005000/198379638-642c8833-d70e-4c15-a669-f2b0cac71eab.png" width="350"/>|
 
-### Search Function
-<img src="https://user-images.githubusercontent.com/39005000/198379638-642c8833-d70e-4c15-a669-f2b0cac71eab.png" width="350"/>
-
-<img src="https://user-images.githubusercontent.com/39005000/198379120-ccd20812-eef8-4210-9acf-d1531c594fd2.png" width="350"/>
-
-### Download Function
-<img src="https://user-images.githubusercontent.com/39005000/198378680-ed2e78aa-c964-4529-a0a4-2ee8b21b6868.png" width="350"/>
-
-### Delete Function
-<img src="https://user-images.githubusercontent.com/39005000/198378870-13576300-cb36-431c-a71e-b7b5cec3e140.png" width="350"/>
+|Download Function|Delete Function|
+|-------------------|-----------------|
+|<img src="https://user-images.githubusercontent.com/39005000/198378680-ed2e78aa-c964-4529-a0a4-2ee8b21b6868.png" width="350"/>|<img src="https://user-images.githubusercontent.com/39005000/198378870-13576300-cb36-431c-a71e-b7b5cec3e140.png" width="350"/>|
